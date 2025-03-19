@@ -6,6 +6,8 @@ O **Sorteio de Amigo** é uma aplicação simples e intuitiva que permite adicio
 
 Com esta ferramenta, você pode adicionar o nome de seus amigos, visualizar quem está participando e realizar sorteios aleatórios, tudo de maneira rápida e fácil.
 
+![Tela Inicial](Imagem1.png)
+
 ## 🎯 Funcionalidades
 
 ### 1. **Adicionar Nomes**
@@ -31,6 +33,9 @@ Com esta ferramenta, você pode adicionar o nome de seus amigos, visualizar quem
 
 3. **Sorteei o seu amigo secreto:**
    - Clique no botão **Sortear Amigo** para escolher um nome aleatoriamente da lista.
+  
+![Adicionar Nomes](Imagem2.png)
+![Sortear Amigo](Imagem3.png)
 
   ## 🌐 Tecnologias Utilizadas
 
